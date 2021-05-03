@@ -13,19 +13,19 @@ namespace Testrepo
         int guess;
         int guessesLeft = 7;
         
-        int [] guesses = new int[7];
-        for (int i = 0; i < numberofguesses; i++)
-        {
-            guesses[i]= Convert.ToInt32(Console.ReadLine());
-        }
-            for (int i = 0; i < numberofguesses; i++)
-        {
-            Console.Write(guesses[i] + " ");
-        }
+        
+        
                Console.WriteLine("hey there! Lets play a little guessing game. Guess the number between 0 and 25");
+                int[] guessing = new int[7];
+                 foreach (int guessess in guessing )
+                for (int i = 0; i < numberofguesses; i++)
                 
+         {
+        }
                 while (sit==false)
+                
                 {
+                    
                     guess= Convert.ToInt32(Console.ReadLine());
                     numberofguesses--;
                     if (guess != randomNumber && numberofguesses == 0)
@@ -54,19 +54,33 @@ namespace Testrepo
                     Console.WriteLine("number higher than that");
                     Console.WriteLine("number of guesses left: " + numberofguesses);
                     }
-                   
+                  
+
+
+          Console.Write(guessing[i] + " 1");
+          Console.Write(guessing[i] + " 2");
+          Console.Write(guessing[i] + " 3");
+          Console.Write(guessing[i] + " 4");
+          Console.Write(guessing[i] + " 5");
+          Console.Write(guessing[i] + " 6");
+          Console.Write(guessing[i] + " ");
+
                    
             
-
-               
+i
            
+     
+      
+        }
               
                 
+               
+        
                    
                    
         } 
         }
     }
-}
+
 
     
