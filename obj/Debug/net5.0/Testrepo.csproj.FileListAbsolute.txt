@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\GitHub\Testrepo\bin\Debug\net5.0\Testrepo.exe
+C:\Users\ADMIN\Documents\GitHub\Testrepo\bin\Debug\net5.0\Testrepo.deps.json
+C:\Users\ADMIN\Documents\GitHub\Testrepo\bin\Debug\net5.0\Testrepo.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\Testrepo\bin\Debug\net5.0\Testrepo.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\GitHub\Testrepo\bin\Debug\net5.0\Testrepo.dll
+C:\Users\ADMIN\Documents\GitHub\Testrepo\bin\Debug\net5.0\ref\Testrepo.dll
+C:\Users\ADMIN\Documents\GitHub\Testrepo\bin\Debug\net5.0\Testrepo.pdb
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\Testrepo.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\Testrepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\Testrepo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\Testrepo.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\Testrepo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\Testrepo.dll
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\ref\Testrepo.dll
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\Testrepo.pdb
+C:\Users\ADMIN\Documents\GitHub\Testrepo\obj\Debug\net5.0\Testrepo.genruntimeconfig.cache
